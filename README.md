@@ -27,7 +27,6 @@ Built a simulation to test if card counting actually works in blackjack. Ran 50,
 
 ## 📈 Currently Working On
 - Exploring algorithmic trading strategies
-- Improving algorithm optimization techniques
 - Training for track season
 
 ## Connect
