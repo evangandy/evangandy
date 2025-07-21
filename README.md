@@ -20,12 +20,14 @@ Mathematical Business & Computer Science student at Wake Forest. I enjoy coding,
 
 ## 🚀 Featured Projects
 
-**Blackjack Strategy Analyzer**     
+**Blackjack Strategy Analyzer**
+
 Built a simulation to test if card counting actually works in blackjack. Ran 50,000+ hands to analyze the mathematical edge gained through optimal play and bet sizing, demonstrating a 2.3% advantage that validates basic strategy combined with card counting techniques.
 
 [![Blackjack Simulator](https://img.shields.io/badge/Blackjack_Simulator-View_Project-2ea44f?style=for-the-badge&logo=github)](https://github.com/evangandy/Blackjack)
 
-**Reverse Engineering Options Greeks** 
+**Reverse Engineering Options Greeks**
+
 Educational project exploring options pricing and the Greeks (Delta, Gamma, Theta, Vega, Rho) using Python. Implements Black-Scholes calculations and visualizations to understand how option values change with market conditions.
 
 [![Options Greeks](https://img.shields.io/badge/Simple_Greeks-View_Project-2ea44f?style=for-the-badge&logo=github)](https://github.com/evangandy/Simple-Greeks-Learning-Project)
