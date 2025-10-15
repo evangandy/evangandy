@@ -1,7 +1,7 @@
 # Evan Gandy
 
 ## 👨‍💻 About Me
-Mathematical Business & Computer Science student at Wake Forest. I enjoy coding, sprinting, and Olympic lifting.
+Computer Science student at Wake Forest. I enjoy coding, sprinting, and Olympic lifting.
 
 ## 🛠️ Technical Skills
 
