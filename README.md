@@ -52,9 +52,6 @@ Study platform cataloging 64 AP Computer Science A free response questions from 
 **Wake Forest Investment Fund** | Analyst | Oct 2025 - Present  
 Selected for competitive student-managed investment fund. Conducting fundamental analysis and financial modeling to evaluate investment opportunities.
 
-**Accenture Technology Consulting Mentorship Program** | Mentee | Oct 2025 - Present  
-Selected for competitive mentorship program focused on technology consulting and strategy. Engaging with industry professionals to develop consulting frameworks and strategic problem-solving skills.
-
 ## Certifications
 
 ![Bloomberg](https://img.shields.io/badge/Bloomberg_Market_Concepts-000000?style=for-the-badge&logo=bloomberg&logoColor=white)
