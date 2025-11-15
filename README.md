@@ -1,6 +1,6 @@
 # Evan Gandy
 
-**B.S. Computer Science, Minor in Mathematics, Elective Concentration in Finance**  
+**B.S. Computer Science, Minor in Mathematics, Intended Concentration in Finance**  
 Wake Forest University | Class of 2029
 
 Quantitative analyst and developer focused on financial modeling, algorithmic problem-solving, and data-driven optimization.
